@@ -1,4 +1,4 @@
-web-audio-mhd14barcelona
+web-audio-scotlandjs15
 ========================
 
-Slides for a talk about the Web Audio API at Music Hack Day 2014 in Barcelona
+Slides for a talk about the Web Audio API at Scotland.js 2015 in Edinburgh
